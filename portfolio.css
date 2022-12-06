@@ -11157,6 +11157,7 @@ p {
   visibility: hidden;
   -webkit-transition: all, 0.3s;
   transition: all, 0.3s;
+  font-size: 15px;
 }
 
 @media (prefers-reduced-motion: reduce) {
